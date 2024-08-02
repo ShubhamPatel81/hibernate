@@ -1,0 +1,11 @@
+eclipse.m2.WorkspacelifecycleMappingsLocation=C\:/Users/Shubham Patel/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+eclipse.m2.debugOutput=true
+eclipse.m2.defaultRuntime=EMBEDDED
+eclipse.m2.downloadJavadoc=true
+eclipse.m2.runtimes=apache-maven-3.9.7
+eclipse.m2.runtimesNodes/apache-maven-3.9.7/location=C\:\\maven\\apache-maven-3.9.7-bin\\apache-maven-3.9.7
+eclipse.m2.runtimesNodes/apache-maven-3.9.7/type=EXTERNAL
+eclipse.m2.unkownMojoExecutionAction=execute
+eclipse.m2.updateIndexes=true
+eclipse.m2.updateProjects=true
+eclipse.preferences.version=1
